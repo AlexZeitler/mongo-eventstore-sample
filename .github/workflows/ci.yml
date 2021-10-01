@@ -40,4 +40,5 @@ jobs:
         with:
           node-version: '14'
       - run: yarn
+      - run: docker-compose up -d
       - run: yarn test

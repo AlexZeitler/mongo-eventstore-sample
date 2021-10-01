@@ -1,6 +1,18 @@
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![Join the chat at https://gitter.im/pdmlab/community](https://badges.gitter.im/pdmlab/community.svg)](https://gitter.im/pdmlab/community)
 
-# ts-node-prettier-vscode-starter
+# mongo-eventstore-sample
+
+This is a sample for `mongo-eventstore`.
+
+Details can be found in the `src` and `test` folders.
+
+## Usage
+
+```bash
+yarn
+docker-compose up -d
+yarn test
+```
 
 ## Want to help?
 
